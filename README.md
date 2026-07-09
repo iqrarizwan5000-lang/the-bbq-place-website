@@ -49,6 +49,25 @@ the-bbq-place-website/
 - Provides address and contact information
 - Uses the Groq API for AI responses
 - Fast and lightweight design
+  
+
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Menu Page
+
+![Menu](screenshots/menu.png)
+
+### AI Chatbot
+
+![Chatbot](screenshots/chatbot.png)
+
+### Contact Page
+
+![Contact](screenshots/contact.png)
 
 ## Author
 
