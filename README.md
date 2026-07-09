@@ -25,20 +25,21 @@ A responsive restaurant website built with WordPress featuring a custom AI-power
 ## Project Structure
 
 ```
-restaurant-chatbot/
-│── assets/
+the-bbq-place-website/
+│
+├── assets/
 │   ├── css/
-│   │   └── chatbot.css
+│   │   └── chatbot.css          # Chatbot styling
 │   └── js/
-│       └── chatbot.js
+│       └── chatbot.js           # Frontend chatbot functionality
 │
 ├── includes/
-│   ├── class-rcb-admin.php
-│   ├── class-rcb-api.php
-│   └── class-rcb-frontend.php
+│   ├── class-rcb-admin.php      # Admin settings
+│   ├── class-rcb-api.php        # REST API and AI integration
+│   └── class-rcb-frontend.php   # Frontend widget rendering
 │
-├── restaurant chatbot.php
-└── README.md
+├── restaurant chatbot.php       # Main plugin file
+└── README.md                    # Project documentation
 ```
 
 ## Chatbot Features
