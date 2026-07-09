@@ -54,20 +54,16 @@ the-bbq-place-website/
 ## Screenshots
 
 ### Homepage
-
-![Homepage](screenshots/homepage.png)
+![Homepage](Screenshots/Homepage.png)
 
 ### Menu Page
-
-![Menu](screenshots/menu.png)
+![Menu](Screenshots/Menu.png)
 
 ### AI Chatbot
-
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](Screenshots/Chatbot.png)
 
 ### Contact Page
-
-![Contact](screenshots/contact.png)
+![Contact](Screenshots/Contact.png)
 
 ## Author
 
